@@ -3,5 +3,5 @@
     <a href="/kontak">Kontak</a>
     <a href="/profil">Profil</a>
 
-    <h1>Halaman Home</h1>
+    <h1>Halaman Kontak</h1>
 </div>
