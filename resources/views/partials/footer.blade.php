@@ -4,7 +4,7 @@
             <h2 class="text-lg font-bold mb-2">Donasiku</h2>
             <p class="text-sm text-gray-400">Platform donasi sosial untuk membantu sesama dengan transparan</p>
         </div>
-
+        
         <div>
             <h2 class="text-lg font-bold mb-2">Kontak</h2>
             <p class="text-sm text-gray-400">Email: support@donasiku.com</p>
