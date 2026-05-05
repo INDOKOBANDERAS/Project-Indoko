@@ -7,7 +7,7 @@
         
         <div>
             <h2 class="text-lg font-bold mb-2">Kontak</h2>
-            <p class="text-sm text-gray-400">Email: support@donasiku.com</p>
+            <p class="text-sm text-gray-400">Email: indokobanderas784@gmail.com</p>
             <p class="text-sm text-gray-400">Telepon: 089510652443</p>
         </div>
     </div>
