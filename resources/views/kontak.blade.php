@@ -23,7 +23,7 @@
         <div>
             <h3 class="text-[10px] uppercase tracking-widest text-gray-400 font-bold mb-3">Bantuan Cepat</h3>
             <p class="text-sm text-gray-800 leading-relaxed">
-                +62 895 10652443<br>
+                0895 1065 2443<br>
                 <span class="text-gray-500 italic">Sen - Jum: 09:00 - 17:00</span>
             </p>
         </div>
